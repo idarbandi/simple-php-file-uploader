@@ -1,4 +1,4 @@
-Got it, DarbanDev! Let's make a professional and compelling README.md for your "simple-php-file-uploader" project that will impress potential employers:
+
 
 ```markdown
 # Simple PHP File Uploader
